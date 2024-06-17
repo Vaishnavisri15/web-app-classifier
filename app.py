@@ -3,7 +3,7 @@ import json
 import requests
 import base64
 from PIL import Image
-import io
+import io 
 
 
 #these are main classes your image is trained on
